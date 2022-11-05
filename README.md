@@ -4,7 +4,7 @@
 - 👨‍🎓 I am a Computer Science student at Malviya National Institute of technology, Jaipur, India.
 - 😃 Looking forward to contribute in open source projects.
 - 🧮 Side by side exploring Security.
-- ✨ Technical Blog writing at https://medium.com/@sumitraartsy
+- ✨ Writing what I am learning at https://medium.com/@sumitraartsy (Technical Blog writing).
 - 📫 To : sumitraartsy@gmail.com
 
 
