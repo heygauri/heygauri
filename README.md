@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @heygauri currently enrolled in MTech(Computer Science and Information Security) program. 
-- 👀 I’m interested in exploring the technologies.
-- 🌱 I’m currently learning Data Structure & Algorithms and development.
-- 👨‍🎓 I am a Computer Science student at Malviya National Institute of technology, Jaipur, India.
+- 👋 Hi, I’m @heygauri studying at NIT jaipur. 
+- 🌱 Currently learning Data Structure & Algorithms and development.
+- 👨‍🎓 M.Tech in MTech(Computer Science and Information Security) at Malviya National Institute of technology, Jaipur, India.
 - 😃 Looking forward to contribute in open source projects.
 - 🧮 Side by side exploring Security.
-- ✨ Writing what I am learning at https://medium.com/@sumitraartsy (Technical Blog writing).
+- ✨ Writing what I am learning at https://medium.com/@heygauri (Technical Blog writing).
 - 📫 To : sumitraartsy@gmail.com
 
 
