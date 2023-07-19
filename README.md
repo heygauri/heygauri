@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @heygauri studying at NIT jaipur. 
-- 🌱 Currently learning Data Structure & Algorithms and development.
+- 🌱 Currently contributing to Linux kernel as an intern.
 - 👨‍🎓 M.Tech in Computer Science and Information Security at Malaviya National Institute of technology, Jaipur, India.
 - 😃 Looking forward to contribute in open source projects.
 - 🧮 Side by side exploring Security.
-- ✨ Writing what I am learning at https://medium.com/@heygauri (Technical Blog writing).
+- ✨ Writing what I am learning at https://medium.com/@heygauri and https://dev.to/heygauri (Technical Blog writing).
 - 📫 To : sumitraartsy@gmail.com
 
 
