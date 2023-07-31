@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heygauri studying at NIT jaipur. 
-- 🌱 Currently contributing to Linux kernel as an intern.
+- 🌱 Currently contributing to Linux kernel as Outreachy intern.
 - 👨‍🎓 M.Tech in Computer Science and Information Security at Malaviya National Institute of technology, Jaipur, India.
 - 😃 Looking forward to contribute in open source projects.
 - 🧮 Side by side exploring Security.
