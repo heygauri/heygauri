@@ -1,6 +1,6 @@
 [![An image of @heygauri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/heygauri)](https://holopin.io/@heygauri)
 
-- 👋 Hi, I’m @heygauri studying at NIT jaipur. 
+- 👋 Hi, I’m Sumitra Sharma studying at NIT Jaipur. 
 - 🌱 Currently contributing to Linux kernel as Outreachy intern.
 - 👨‍🎓 M.Tech in Computer Science and Information Security at Malaviya National Institute of technology, Jaipur, India.
 - 😃 Looking forward to contribute in open source projects.
