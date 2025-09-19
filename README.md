@@ -4,7 +4,6 @@
 - 🌱 Outreachy Linux-kernel Intern May 2023 Cohort.
 - 👨‍🎓 M.Tech in Computer Science and Information Security at Malaviya National Institute of technology, Jaipur, India.
 - 😃 Looking forward to contribute in open source projects.
-- 🧮 Side by side exploring Security.
 - ✨ Writing what I am learning at https://medium.com/@heygauri and https://dev.to/heygauri (Technical Blog writing).
 - 📫 To : sumitraartsy@gmail.com
 
