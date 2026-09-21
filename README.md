@@ -5,6 +5,7 @@
 - 👨‍🎓 M.Tech in Computer Science and Information Security at Malaviya National Institute of technology, Jaipur, India.
 - 😃 Looking forward to contribute in open source projects.
 - ✨ Writing what I am learning at https://medium.com/@heygauri and https://dev.to/heygauri (Technical Blog writing).
+- 💬 Looking for guidance on GATE, open source, internships, careers or resumes? [https://topmate.io/sumitrasharma]
 - 📫 To : sumitraartsy@gmail.com
 
 <!---
